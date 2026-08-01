@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Communication-Efficient Hierarchical Federated Learning via Model-Guided Entropy-Correlation Feature Selection and Bidirectional Low-Rank Compression"
+message: "If you use this software, please cite the article below."
+type: software
+version: 1.1.0
+date-released: 2026-08-01
+authors:
+  - family-names: Mollanejad
+    given-names: Amir
+  - family-names: Hoseinnejad
+    given-names: Mihan
+  - family-names: Pour Haji Kazem
+    given-names: Ali Asghar
+  - family-names: Dadashkhani
+    given-names: Neda
+  - family-names: Hosseinzadeh
+    given-names: Mehdi
+doi: 10.5281/zenodo.21729792
+repository-code: https://doi.org/10.5281/zenodo.21729792
